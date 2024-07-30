@@ -1,5 +1,0 @@
-<resources>
-    <dimen name="fab_margin">16dp</dimen>
-
-    <dimen name="view_empty_title_ts">18sp</dimen>
-</resources>
